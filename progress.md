@@ -30,3 +30,4 @@ Progress
 ##### TRTPose 깃허브 링크: [https://github.com/NVIDIA-AI-IOT/trt_pose](url)
 ##### Jetson Nano 팬 작동 링크 (팬 없으면 안해도 됨): [https://github.com/jugfk/jetson-fan-ctl](url)
 ##### jetson Nano 카메라 setup링크 *모델 돌리기 전에 반드시 한번 실행시켜야함
+
