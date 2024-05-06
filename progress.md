@@ -1,8 +1,12 @@
 Progress
-----------------
+---------------
+
+
 ### Hardware Progress
 #### Motor 조립완료
 #### Motor 연결은 아직 안한 상황
+
+
 
 ### Software Progress
 #### Jetson보드의 TRT Pose를 위한 환경세팅 완료
